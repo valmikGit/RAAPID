@@ -1,2 +1,4 @@
 raapidenv
 Task_B_Dataset.csv
+*.json
+pattern_extraction
