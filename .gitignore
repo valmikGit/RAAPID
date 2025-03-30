@@ -5,3 +5,6 @@ pattern_extraction
 *.docx
 *.tsv
 *.txt
+NLI_bert_model
+tmp_trainer
+inference_dataset
